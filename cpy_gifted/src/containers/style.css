@@ -1,0 +1,8 @@
+.app_content {
+    display: flex;
+    flex-direction: column;
+    background: #f8f9fa;
+    align-items: center;
+    min-height: 100vh;
+    background: var(--primary-color);
+}

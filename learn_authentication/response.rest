@@ -1,0 +1,22 @@
+GET http://localhost:3003/users
+
+###
+
+POST http://localhost:3003/users
+Content-Type: application/json
+
+{
+    "userName": "Manisha",
+    "password": "pwd"
+}
+
+
+###
+
+POST http://localhost:3003/users/login
+Content-Type: application/json
+
+{
+    "userName": "Manisha",
+    "password": "pwd"
+}

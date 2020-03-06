@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Grid</title>
+    <style>
+      html,
+      body {
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        display: grid;
+        height: 100%;
+        width: 100%;
+      }
+
+      .item {
+      }
+
+      #first {
+        grid-row-start: 1;
+        grid-row-end: 2;
+
+        grid-column-start: 1;
+        grid-column-end: 4;
+        background-color: thistle;
+      }
+
+      #second {
+        grid-row-start: 2;
+        grid-row-end: 5;
+        grid-column-start: 1;
+        grid-column-end: 4;
+        background-color: teal;
+      }
+
+      #third {
+        grid-row-start: 1;
+        grid-row-end: 3;
+        grid-column-start: 4;
+        grid-column-end: 6;
+        background-color: cadetblue;
+      }
+
+      #forth {
+        grid-row-start: 3;
+        grid-row-end: 5;
+        grid-column-start: 3;
+        grid-column-end: 6;
+        z-index: 2;
+        background-color: aqua;
+      }
+
+      @media only screen and (max-device-width: 400px) {
+        #first {
+          grid-row-end: 3;
+          grid-column-end: 5;
+        }
+
+        #second {
+          display: none;
+        }
+
+        #third {
+          grid-row-start: 3;
+          grid-row-end: 5;
+          grid-column-start: 1;
+          grid-column-end: 3;
+        }
+
+        #forth {
+          grid-row-start: 3;
+          grid-row-end: 5;
+          grid-column-start: 3;
+          grid-column-end: 5;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div id="first" class="item"></div>
+      <div id="second" class="item"></div>
+      <div id="third" class="item"></div>
+      <div id="forth" class="item"></div>
+    </div>
+  </body>
+</html>

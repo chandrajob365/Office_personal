@@ -1,0 +1,113 @@
+[
+  {
+    "id": "e49902b6-6ac4-4fa3-bd70-939b2a452adb",
+    "name": "Halvorson Group",
+    "description": "Necessitatibus occaecati dolor laborum et aut molestias et et.",
+    "distance_to_venue": 1980,
+    "rating": 1.3,
+    "price_category": "low",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant",
+      "gym",
+      "pool"
+    ],
+    "rooms": []
+  },
+  {
+    "id": "be878518-7d1b-47cf-8f3d-620af08a8d9b",
+    "name": "Roberts Group",
+    "description": "Similique reprehenderit et repellendus labore blanditiis quam non ullam qui.",
+    "distance_to_venue": 1247,
+    "rating": 3.6,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets"
+    ],
+    "rooms": []
+  },
+  {
+    "id": "d52046c7-5776-448e-b498-c1ca7cd55330",
+    "name": "Cummerata - Reinger",
+    "description": "Vero voluptatum quia ut molestias ut quo exercitationem.",
+    "distance_to_venue": 68,
+    "rating": 2.6,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets"
+    ],
+    "rooms": [
+      "251c8650-87c4-44ff-9c80-fb64192d3759",
+      "53665a5b-713d-4529-be17-92e112e971f8",
+      "431e5501-8b75-4c2e-9b73-e41a0309c358"
+    ]
+  },
+  {
+    "id": "8f75d3cf-43e2-43f8-8a6c-647829bf5673",
+    "name": "Mraz Inc",
+    "description": "Praesentium dicta culpa saepe modi corrupti vel.",
+    "distance_to_venue": 1692,
+    "rating": 2.6,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant",
+      "gym",
+      "pool"
+    ],
+    "rooms": [
+      "b848422f-4c6a-4714-83df-39957e35d794",
+      "958bacf0-b6ce-4613-92ab-6b33e65c0c86",
+      "c6c7ee9a-37b2-472a-90c4-c2445daefd9b",
+      "04200aa9-143b-4ca5-b52b-2701d1ca5214",
+      "bf3c405b-2900-4d95-b328-1564011e6416",
+      "b6ff5dd2-0a07-4435-8a8b-f89e5626a30d",
+      "927ea8db-b3c8-4f8d-90b6-ecb5f33e2b6e"
+    ]
+  },
+  {
+    "id": "b9250576-86e6-4115-8212-dc0249b3a2d8",
+    "name": "Paucek Group",
+    "description": "Blanditiis eveniet eligendi est et nemo commodi.",
+    "distance_to_venue": 575,
+    "rating": 2.4,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking"
+    ],
+    "rooms": [
+      "59cb1ec8-080c-4c06-b8a0-d9cdd54b1c5a",
+      "88b244a8-0956-4201-b505-9e432b279a07",
+      "56103aa4-e08a-4391-8a32-f46793bddf87",
+      "c2cd11bd-1dcc-4b53-b4a3-024244af4879"
+    ]
+  },
+  {
+    "id": "8b8b992f-62fc-4322-99aa-fb5c98e9c76d",
+    "name": "Glover, Goodwin and Legros",
+    "description": "Qui voluptatem asperiores aut voluptas eaque quo sint veritatis.",
+    "distance_to_venue": 827,
+    "rating": 0.5,
+    "price_category": "low",
+    "amenities": [
+      "free_parking"
+    ],
+    "rooms": [
+      "add04a4b-0b5f-4e85-b2f6-06b62f320ed6",
+      "5f340e20-2d2a-4572-84d4-fe0ae57907ea",
+      "ef0ac461-ab7b-4096-b38b-835e6c2c8eb2",
+      "a4ddc19f-2531-490e-bd5b-07b1118fde8e",
+      "359a0bab-1801-4c39-9de9-ef35688ad79b",
+      "2432699e-8b41-456a-bd46-5073b8be1986",
+      "16efcf38-4a2f-4de9-9584-9b27679a095a"
+    ]
+  }
+]

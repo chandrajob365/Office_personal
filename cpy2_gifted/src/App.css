@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    --primary-color: #fff;
+    --secondary-color: #282c34;
+    --header-color: #fff;
+    --text-color: #000;
+}
+
+html[data-theme="dark"] {
+    --primary-color: #282c34;
+    --secondary-color: #fff;
+    --header-color: #49515f;
+    --text-color: #fff;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+.app {
+    display: flex;
+}

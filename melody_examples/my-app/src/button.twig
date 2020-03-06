@@ -1,0 +1,10 @@
+<div id="button">
+    {% for button in counterButtons %}
+        <div>{{loop.index0}}</div>
+        <div>
+            <button key="button{{ loop.index }}" style="color: {{ color }}">
+                {{ button.text }}
+            </button>
+        </div>
+    {% endfor %}
+</div>

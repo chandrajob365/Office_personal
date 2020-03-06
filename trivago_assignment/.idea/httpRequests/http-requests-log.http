@@ -1,0 +1,48 @@
+GET http://localhost:3000/hotels
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T054500.200.json
+
+###
+
+GET http://localhost:3000/hotels
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T054421.200.json
+
+###
+
+GET http://localhost:3000/hotels
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T052135.200.json
+
+###
+
+GET http://localhost:3000/rooms
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T034740.404.json
+
+###
+
+GET http://localhost:3000/hotels
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T034732.200.json
+
+###
+
+GET http://localhost:3000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T034716.200.html
+
+###
+

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "61d76caf-8df6-418c-bf94-dbf420546de2",
+    "name": "Spencer - Runolfsson",
+    "description": "Distinctio eligendi sed voluptatem magni ipsa facilis autem ut.",
+    "distance_to_venue": 1842,
+    "rating": 0.1,
+    "price_category": "low",
+    "amenities": [
+      "free_parking",
+      "free_wifi"
+    ],
+    "rooms": [
+      "91ee2f0e-e0c6-4f21-9a8b-3185742d819b",
+      "06155c73-a5e8-4ca6-9ebc-0f542f985c54"
+    ]
+  },
+  {
+    "id": "03289712-dc88-40c7-a0fb-fbfdbd92ab37",
+    "name": "Carroll and Sons",
+    "description": "Quo quae nihil explicabo.",
+    "distance_to_venue": 1220,
+    "rating": 0.4,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets"
+    ],
+    "rooms": [
+      "72f80dcc-ec08-4cad-a82f-a4fd18c5cf4d",
+      "d580d5cf-583b-4d37-9121-6c44395f0b39"
+    ]
+  },
+  {
+    "id": "01cddf6e-2e4b-4bad-925e-96cb04b546bd",
+    "name": "Reichel - Stark",
+    "description": "Et doloremque voluptatum illum aut amet veritatis nam.",
+    "distance_to_venue": 1226,
+    "rating": 1.2,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant",
+      "gym",
+      "pool"
+    ],
+    "rooms": [
+      "eda7f346-2b4d-46a0-8a48-2d99b1e731a3",
+      "cd48b696-6625-47c0-9407-43f31c16cb25",
+      "b97eb7ad-4e6f-4947-b011-7961de925f9e",
+      "78c7841c-eef5-481d-9702-05e5b4a2aa72"
+    ]
+  },
+  {
+    "id": "6fdc1886-dc8b-4f05-9f47-40465fb3d4c9",
+    "name": "Cruickshank Group",
+    "description": "Eveniet quidem velit expedita sit iste reiciendis dolores.",
+    "distance_to_venue": 182,
+    "rating": 0.3,
+    "price_category": "low",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant"
+    ],
+    "rooms": [
+      "e645e3f0-5480-43a5-be3c-98d254f0d5ae",
+      "a250aae7-9648-4f62-b448-e757d5cd1a49",
+      "eeb11a85-377d-476d-85f2-699d0e3c7ca7",
+      "9b1ef531-cba1-4d4f-b696-c077c3cb770e",
+      "fdace94f-e7a5-4553-9c9c-bde7e91e3c34"
+    ]
+  },
+  {
+    "id": "5812a4bf-b1cf-47d3-ba98-c1de06e72191",
+    "name": "Stamm - Schmitt",
+    "description": "Nobis qui fugit.",
+    "distance_to_venue": 1602,
+    "rating": 5,
+    "price_category": "low",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant",
+      "gym"
+    ],
+    "rooms": [
+      "66747e34-7774-4b7c-8726-7cf884616e26"
+    ]
+  },
+  {
+    "id": "dc50951a-58d0-4c47-90b2-7dbb76977a08",
+    "name": "Lang - Bahringer",
+    "description": "Temporibus quod dolor molestias quis occaecati saepe asperiores quaerat.",
+    "distance_to_venue": 529,
+    "rating": 2.2,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking"
+    ],
+    "rooms": [
+      "a9abeed4-6244-4f0f-97e4-6594dfb9af1b",
+      "98651221-1969-40e2-8dce-bc5b607e30a3",
+      "eb875b80-51c5-4a97-8109-10643f4501be"
+    ]
+  }
+]

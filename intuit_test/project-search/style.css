@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+.app {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.search {
+	margin: 2rem;
+}
+.search_Box {
+	width: 20rem;
+	height: 5rem;
+	padding: 1rem;
+}
+
+.result {
+	width: 30rem;
+	height: 10rem;
+	border: 1px solid black;
+	padding: 0.5rem;
+	overflow-y: scroll;
+}

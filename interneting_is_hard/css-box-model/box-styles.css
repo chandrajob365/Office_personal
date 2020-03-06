@@ -1,0 +1,10 @@
+h1,
+p {
+	background-color: aqua;
+}
+
+em,
+strong {
+	background-color: brown;
+	display: block;
+}

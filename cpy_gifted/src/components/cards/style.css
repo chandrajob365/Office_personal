@@ -1,0 +1,104 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    margin: 2% 10%;
+    justify-content: center;
+    max-height: 90vh;
+}
+
+.card {
+    display: flex;
+    flex: 0 0 100%;
+    margin: 1% .25%;
+    position: relative;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.triangle {
+    display: inline-block;
+    margin: 0 5px;
+    vertical-align: middle;
+    border-right: 60px solid #d3cfcf;
+    border-bottom: 40px solid transparent;
+    border-top: 40px solid transparent;
+}
+
+.play
+{
+    display: none;
+}
+
+.pause
+{
+    display: block;
+}
+
+img {
+    width: 80vw;
+    height: 40vh
+}
+
+.togglePlayAll {
+    position: absolute;
+    right: 10%;
+    width: 10%;
+    height: 3%;
+}
+
+@media screen and (min-width: 640px) {
+    .cards {
+        justify-content: center;
+    }
+    .card {
+        flex-basis: 49%;
+        margin: 1% 0%;
+    }
+
+    img{
+        width: 34vw;
+        height: 34vh;
+    }
+
+    .centered {
+        left: 40%;
+    }
+
+    .triangle {
+        border-right: 40px solid #d3cfcf;
+        border-bottom: 20px solid transparent;
+        border-top: 20px solid transparent
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .cards {
+        margin: 4% 5%;
+        justify-content: space-between;
+    }
+    .card {
+        flex-basis: 24%;
+        margin: 1% .5%;
+    }
+
+    img{
+        width: 20vw;
+        height: 40vh;
+    }
+
+    .centered {
+        left: 50%;
+    }
+
+    .triangle {
+        border-right: 60px solid #d3cfcf;
+        border-bottom: 40px solid transparent;
+        border-top: 40px solid transparent
+    }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "3fbbddd7-c2ca-4026-b7f6-e75c545539cd",
+    "name": "Pfeffer Inc",
+    "description": "Illo aut in distinctio est quia laudantium laborum et voluptas.",
+    "distance_to_venue": 1790,
+    "rating": 3.6,
+    "price_category": "high",
+    "amenities": [
+      "free_parking"
+    ]
+  },
+  {
+    "id": "b6dd6ae2-5e1f-4d98-b31e-e1a53df1e3ad",
+    "name": "Willms Group",
+    "description": "Praesentium unde cumque est cupiditate.",
+    "distance_to_venue": 450,
+    "rating": 3.4,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant",
+      "gym",
+      "pool"
+    ]
+  },
+  {
+    "id": "61fc8556-4e73-46fb-8ca5-2aae395cba08",
+    "name": "Rau, Grimes and Ortiz",
+    "description": "Aut in ab quibusdam.",
+    "distance_to_venue": 1577,
+    "rating": 1.4,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking"
+    ]
+  },
+  {
+    "id": "4f0f7960-8174-4ea6-af68-3efcd13c90d8",
+    "name": "DuBuque - Pacocha",
+    "description": "Ut exercitationem non in.",
+    "distance_to_venue": 1268,
+    "rating": 4.7,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi"
+    ]
+  },
+  {
+    "id": "d20c12c0-13de-4bbd-a26f-f63cc84155d5",
+    "name": "Swaniawski - Ward",
+    "description": "Quos animi ipsa in vitae.",
+    "distance_to_venue": 1871,
+    "rating": 1.8,
+    "price_category": "high",
+    "amenities": [
+      "free_parking",
+      "free_wifi",
+      "pets",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "aecf9eda-c547-46a2-9559-714ddb27e4e6",
+    "name": "Bogan Group",
+    "description": "Eius in necessitatibus earum velit et impedit reiciendis.",
+    "distance_to_venue": 705,
+    "rating": 1.3,
+    "price_category": "medium",
+    "amenities": [
+      "free_parking",
+      "free_wifi"
+    ]
+  }
+]
